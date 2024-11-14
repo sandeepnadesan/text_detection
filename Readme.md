@@ -1,0 +1,1 @@
+deployed =https://text-detections.streamlit.app/
